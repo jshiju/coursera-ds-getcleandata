@@ -1,6 +1,7 @@
 Getting and Cleaning Data Course Project
 ========================================
-This file step-by-step instructions on how to run "run_analysis.R" script to generate the tidy dataset.
+This file step-by-step instructions on how to run "run_analysis.R" script to generate the tidy dataset.  
+
 1. First, unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and rename the folder with "data".  
 2. Make sure the folder "data" and the run_analysis.R script are both in the current working directory.  
 3. Second, use source("run_analysis.R") command in RStudio.  
